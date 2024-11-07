@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\27985\source\repos\getFile\getFile\main.cpp(19,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\27985\source\repos\getFile\getFile\main.cpp(22,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+C:\Users\27985\source\repos\getFile\getFile\main.cpp(150): warning C4715: “getDrives”: 不是所有的控件路径都返回值
+  50 of 91 functions (54.9%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  getFile.vcxproj -> C:\Users\27985\source\repos\getFile\x64\Release\getFile.exe

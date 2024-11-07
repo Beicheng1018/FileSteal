@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\27985\source\repos\getFile\getFile\main.cpp(31,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\27985\source\repos\getFile\getFile\main.cpp(34,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\27985\source\repos\getFile\getFile\main.cpp(193): warning C4715: “getDrives”: 不是所有的控件路径都返回值
+  getFile.vcxproj -> C:\Users\27985\source\repos\getFile\x64\Debug\getFile.exe
